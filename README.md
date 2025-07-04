@@ -1,17 +1,20 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=Blur&color=a6e2a1&height=350&section=header&text=kangrae-jo&fontSize=40&fontColor=e9f0e9)
+![header](https://capsule-render.vercel.app/api?type=Blur&color=a6e2a1&height=330&section=header&text=kangrae-jo&fontSize=40&fontColor=e9f0e9)
 
 
 ## 👋 Hello!
 
   
-  🗂️ Back End Stack
+  ⚒️ Stack
 
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> 
-
- ⚒️ Language
-
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> 
+<br>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> 
+<img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"> 
+<img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=Thymeleaf&logoColor=white">
+<br>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"> 
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/>
 
