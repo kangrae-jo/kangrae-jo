@@ -17,6 +17,12 @@
 <br>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"> 
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/Koyeb-0F172A?style=for-the-badge&logo=koyeb&logoColor=white">
+<img src="https://img.shields.io/badge/Aiven-DA1884?style=for-the-badge&logo=aiven&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+<img src="https://img.shields.io/badge/AWS_RDS-527FFF?style=for-the-badge&logo=amazonaws&logoColor=white">
 
 <br>
 
