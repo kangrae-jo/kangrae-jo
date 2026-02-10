@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Blur&color=a6e2a1&height=250&section=header&text=kangrae-jo&fontSize=35&fontColor=e9f0e9)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=a6e2a1&height=200&section=header&text=kangrae-jo&fontSize=35&fontColor=e9f0e9&fontAlign=50&fontAlignY=36)
 
 ## 👋 Hello!
 
