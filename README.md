@@ -41,4 +41,4 @@
 ![kangrae-jo's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=kangrae-jo&show_icons=true&theme=vue)
 
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kangrae-jo&layout=compact&theme=vue)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rae4098)](https://solved.ac/rae4098/)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=rae4098&theme=warm)
