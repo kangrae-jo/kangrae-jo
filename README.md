@@ -40,5 +40,4 @@
 
 ![kangrae-jo's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=kangrae-jo&show_icons=true&theme=vue)
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kangrae-jo&layout=compact&theme=vue)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=rae4098&theme=warm)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kangrae-jo&layout=compact&theme=vue)![mazandi profile](http://mazandi.herokuapp.com/api?handle=rae4098&theme=warm)
