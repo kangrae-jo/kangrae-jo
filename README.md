@@ -38,7 +38,7 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kangrae-jo&layout=compact&theme=vue)
+![kangrae-jo's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=kangrae-jo&show_icons=true&theme=vue)
 
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kangrae-jo&layout=compact&theme=vue)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rae4098)](https://solved.ac/rae4098/)
-![kangrae-jo's GitHub stats](https://github-readme-stats.vercel.app/api?username=kangrae-jo&show_icons=true&theme=vue)
