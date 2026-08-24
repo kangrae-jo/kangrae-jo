@@ -37,7 +37,3 @@
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 </p>
-
-![kangrae-jo's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=kangrae-jo&show_icons=true&theme=vue)
-
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kangrae-jo&layout=compact&theme=vue)
